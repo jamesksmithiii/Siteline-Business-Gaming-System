@@ -1,1 +1,1 @@
-Details and screenshots of the value stream designer under development.
+Details and screenshots of the visual value stream designer under development.
