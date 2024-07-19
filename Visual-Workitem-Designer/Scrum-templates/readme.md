@@ -1,0 +1,1 @@
+SitelineOS allows all work to be flowed, including scrum ceremonies themselves. Included are planning, daily scrum, review, and retrospective widgets taken from the habits I've observed from a handful of very high-performing teams. 
